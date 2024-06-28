@@ -24,7 +24,7 @@
 - **3:20 PM:** Network team investigates; no anomalies found. Misleading path abandoned.
 - **3:40 PM:** Escalation to senior engineers. Detailed review of application logs.
 - **4:00 PM:** Root cause identified as a misconfiguration in the database connection pool settings.
-- **4:15 PM:** Configuration updated to increase connection pool size. 
+- **4:15 PM:** Configuration updated to increase connection pool size.
 - **4:30 PM:** Authentication service restarted.
 - **4:45 PM:** Service restored. Monitoring confirms resolution, and affected users can log in again.
 
